@@ -2,39 +2,39 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**TeamAloneOp/AloneXRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ROCKY-D3V/XD-NEW-MANNAGEMENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TeamAloneOp/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/rocky/count.svg" />
 </p>
 
 
 
 <h2 align="center">
-    ──「 ᴀʟᴏɴᴇ  ʀᴏʙᴏᴛ 」──
+    ──「 xᴅ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg">
+  <img src="https://graph.org/file/a1503f6a173c13523ecc3.jpg">
 </p>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AlonesHeaven) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/TEAM_SYC0_FIGHTER) 
 
 ## sᴛᴀᴛs
 <p align="center">
-<a href="https://github.com/TeamAloneOp/AloneXRobot/stargazers"><img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamAloneOp/AloneXRobot/network/members"> <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamAloneOp/AloneXRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT/stargazers"><img src="https://img.shields.io/github/stars/ROCKY-D3V/XD-NEW-MANNAGEMENT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT/network/members"> <img src="https://img.shields.io/github/forks/ROCKY-D3V/XD-NEW-MANNAGEMENT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TeamAloneOp/AloneXRobot"> <img src="https://img.shields.io/github/repo-size/TeamAloneOp/AloneXRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/TeamAloneOp/AloneXRobot/commits/TeamAloneOp"> <img src="https://img.shields.io/github/last-commit/TeamAloneOp/AloneXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT"> <img src="https://img.shields.io/github/repo-size/ROCKY-D3V/XD-NEW-MANNAGEMENT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT/commits/TeamAloneOp"> <img src="https://img.shields.io/github/last-commit/ROCKY-D3V/XD-NEW-MANNAGEMENT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ ✘ ʀᴏʙᴏᴛ](https://t.me/AloneXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [●⏤˹✘∂ ɱυѕιᴄ˼⏤●](https://t.me/ADVANCE_XD_BOT)**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -51,7 +51,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ ✘ �
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
 </h3></summary>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamAloneOp/AloneXRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 </details>
@@ -67,7 +67,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ ✘ �
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ </b>
 </h3></summary>
 
-<p align="center"><a href="https://railway.app/new/template=https://github.com/TeamAloneOp/AloneXRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template=https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
 
 
 </details>
@@ -96,7 +96,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴀʟᴏɴᴇ ✘ �
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/TeamAloneOp/AloneXRobot`
+- `git clone https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
 - `cd AloneXRobot`
@@ -143,7 +143,7 @@ DATABASE_URL =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ https://customer.elephantsql.com/lo
 MONGO_DB_URI =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ mongodb.com
 TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather
 OWNER_USERNAME =  ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ @
-OWNER_ID =  sᴛᴀʀᴛ @AloneXRobot & ᴛʏᴘᴇ /id 
+OWNER_ID =  sᴛᴀʀᴛ @ADVANCE_XD_BOT & ᴛʏᴘᴇ /id 
 ```
 </details>
 ━━━━━━━━━━━━━━━━━━━━
@@ -153,13 +153,13 @@ OWNER_ID =  sᴛᴀʀᴛ @AloneXRobot & ᴛʏᴘᴇ /id
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/XD_N3TWORK"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/ALONE%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ROCKY_ISS_BACK"><img src="https://img.shields.io/badge/ALONE%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/AloneXBots)
+[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/XD_N3TWORK)
 
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -182,5 +182,5 @@ OWNER_ID =  sᴛᴀʀᴛ @AloneXRobot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [𝐀𝗅𝗈𝗇𝖾] × <a href="https://github.com/TeamAloneOp" alt="TeamAloneOp"> <img src="https://img.shields.io/badge/KINGALONE-90302f?logo=github" /></a>  
+➥ [ʀσᴄᴋყ] × <a href="https://github.com/ROCKY-D3V" alt="ROCKY"> <img src="https://img.shields.io/badge/KINGALONE-90302f?logo=github" /></a>  
 ━━━━━━━━━━━━━━━━━━━━
