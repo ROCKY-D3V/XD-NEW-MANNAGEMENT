@@ -265,9 +265,17 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("🎊")
+            lol.edit_text("😇")
             time.sleep(0.5)
             lol.edit_text("⚡")
+            time.sleep(0.4)
+            lol.edit_text("🥰")
+            time.sleep(0.5)
+            lol.edit_text("❄️")
+            time.sleep(0.4)
+            lol.edit_text("💫")
+            time.sleep(0.5)
+            lol.edit_text("✨")
             time.sleep(0.3)
             lol.edit_text("ꜱᴛᴀʀᴛɪɴɢ... ")
             time.sleep(0.4)
@@ -374,7 +382,7 @@ def help_button(update: Update, context: CallbackContext):
         elif prev_match:
             curr_page = int(prev_match.group(1))
             kb = paginate_modules(curr_page - 1, HELPABLE, "help")
-            # kb.append([InlineKeyboardButton(text='Support', url='https://t.me/AloneXBots'),
+            # kb.append([InlineKeyboardButton(text='Support', url='https://t.me/XD_N3TWORK'),
             #           InlineKeyboardButton(text='Back', callback_data='start_back'),
             #           InlineKeyboardButton(text="Try inline", switch_inline_query_current_chat="")])
             query.message.edit_text(
@@ -386,7 +394,7 @@ def help_button(update: Update, context: CallbackContext):
         elif next_match:
             next_page = int(next_match.group(1))
             kb = paginate_modules(next_page + 1, HELPABLE, "help")
-            # kb.append([InlineKeyboardButton(text='Support', url='https://t.me/Alone'),
+            # kb.append([InlineKeyboardButton(text='Support', url='https://t.me/XD_N3TWORK'),
             #           InlineKeyboardButton(text='Back', callback_data='start_back'),
             #           InlineKeyboardButton(text="Try inline", switch_inline_query_current_chat="")])
             query.message.edit_text(
@@ -397,7 +405,7 @@ def help_button(update: Update, context: CallbackContext):
 
         elif back_match:
             kb = paginate_modules(0, HELPABLE, "help")
-            # kb.append([InlineKeyboardButton(text='Support', url='https://t.me/Alone'),
+            # kb.append([InlineKeyboardButton(text='Support', url='https://t.me/XD_N3TWORK'),
             #           InlineKeyboardButton(text='Back', callback_data='start_back'),
             #           InlineKeyboardButton(text="Try inline", switch_inline_query_current_chat="")])
             query.message.edit_text(
@@ -715,7 +723,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/8dea393ddf4fc2e339179.gif",
+                animation="https://graph.org/file/3dc97e276e1575d8dbbbc.mp4",
                 caption=f"""
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✨ .....
 
