@@ -1,9 +1,9 @@
 
 {
-    "name": "ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ",
-    "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-    "repository": "https://github.com/TeamAloneOp/AloneXRobot",
-    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
+    "name": "xᴅ ʀᴏʙᴏᴛ",
+    "description": "𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚘𝚝 𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝚙𝚢𝚝𝚑𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝚙𝚢𝚝𝚑𝚘𝚗.",
+    "repository": "https://github.com/ROCKY-D3V/XD-NEW-MANNAGEMENT",
+    "logo": "https://graph.org/file/a1503f6a173c13523ecc3.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -45,17 +45,17 @@
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6079943111"
+         "value": "6545714937"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "6079943111"
+         "value": "6545714937"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "ALONE_WAS_BOT"
+         "value": "ROCKY_ISS_BACK"
       },
       "LOG_GROUP_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
