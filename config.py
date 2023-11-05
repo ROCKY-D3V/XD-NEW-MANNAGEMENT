@@ -15,7 +15,7 @@ class Config(object):
     SPAMWATCH_API = None
     TOKEN = getenv("TOKEN", None)
     OWNER_ID = int(getenv("OWNER_ID", "6545714937"))  # sᴛᴀʀᴛ @ADVANCE_XD_BOT ᴛʏᴘᴇ /id
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "ROCKY_ISS_BACK)
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "ROCKY_ISS_BACK")
     SUPPORT_CHAT = getenv("SUPPORT_CHAT", "XD_N3TWORK")
     LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001885729197)
     MONGO_URI = getenv("MONGO_DB_URI")
