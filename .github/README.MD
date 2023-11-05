@@ -156,7 +156,7 @@ OWNER_ID =  sᴛᴀʀᴛ @ADVANCE_XD_BOT & ᴛʏᴘᴇ /id
 <a href="https://t.me/XD_N3TWORK"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ROCKY_ISS_BACK"><img src="https://img.shields.io/badge/ALONE%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ROCKY_ISS_BACK"><img src="https://img.shields.io/badge/ROCKY%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 [ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/XD_N3TWORK)
@@ -182,5 +182,5 @@ OWNER_ID =  sᴛᴀʀᴛ @ADVANCE_XD_BOT & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [ʀσᴄᴋყ] × <a href="https://github.com/ROCKY-D3V" alt="ROCKY"> <img src="https://img.shields.io/badge/KINGALONE-90302f?logo=github" /></a>  
+➥ [ʀσᴄᴋყ] × <a href="https://github.com/ROCKY-D3V" alt="ROCKY"> <img src="https://img.shields.io/badge/ROCKY-90302f?logo=github" /></a>  
 ━━━━━━━━━━━━━━━━━━━━
